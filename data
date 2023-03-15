@@ -1,9 +1,16 @@
-com.HubLawtanApp2.pgappsharphelperpgadvice
-
-3973c59fed11b836	BANNER	-	
-
-132d8a206fcf2902	INTER	-	
-
-c0b8993a75bc65d9	NATIVE	-	
-
-bf6ba257f44e4ae5	REWARD	-
+{
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"3973c59fed11b836",
+            "inter":"132d8a206fcf2902",
+            "nativ":"c0b8993a75bc65d9",
+            "reword":"bf6ba257f44e4ae5"}
+            }
